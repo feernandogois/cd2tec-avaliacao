@@ -36,7 +36,7 @@ require_once './assets/acoes/index_consulta.php';
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-                <a class="navbar-brand" href="#">teste</a>
+                <a class="navbar-brand" href="#">cd2tec</a>
             </div>
         </div>
     </nav>
